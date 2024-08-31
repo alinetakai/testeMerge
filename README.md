@@ -1,1 +1,1 @@
-teste merge com conflito
+teste merge com conflito no repositório remoto
