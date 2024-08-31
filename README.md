@@ -1,1 +1,1 @@
-teste merge
+teste merge com conflito
